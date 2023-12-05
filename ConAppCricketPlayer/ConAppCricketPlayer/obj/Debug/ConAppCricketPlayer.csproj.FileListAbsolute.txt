@@ -1,0 +1,7 @@
+F:\mphasis\Phase-1-End_Projects\1st Project\ConAppCricketPlayer\ConAppCricketPlayer\bin\Debug\ConAppCricketPlayer.exe.config
+F:\mphasis\Phase-1-End_Projects\1st Project\ConAppCricketPlayer\ConAppCricketPlayer\bin\Debug\ConAppCricketPlayer.exe
+F:\mphasis\Phase-1-End_Projects\1st Project\ConAppCricketPlayer\ConAppCricketPlayer\bin\Debug\ConAppCricketPlayer.pdb
+F:\mphasis\Phase-1-End_Projects\1st Project\ConAppCricketPlayer\ConAppCricketPlayer\obj\Debug\ConAppCricketPlayer.csproj.AssemblyReference.cache
+F:\mphasis\Phase-1-End_Projects\1st Project\ConAppCricketPlayer\ConAppCricketPlayer\obj\Debug\ConAppCricketPlayer.csproj.CoreCompileInputs.cache
+F:\mphasis\Phase-1-End_Projects\1st Project\ConAppCricketPlayer\ConAppCricketPlayer\obj\Debug\ConAppCricketPlayer.exe
+F:\mphasis\Phase-1-End_Projects\1st Project\ConAppCricketPlayer\ConAppCricketPlayer\obj\Debug\ConAppCricketPlayer.pdb
